@@ -21,5 +21,8 @@ node  missshot.js -h  #For more info
 node  missshot.js --help  #For more info
 ```
 
+![alt text](https://image.prntscr.com/image/CmdJoDgoR32IZzF2JtdUSQ.png)
+
+
 ## Contributing
 Pull requests are welcome. You are free to change what you want.
